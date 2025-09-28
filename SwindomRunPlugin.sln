@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwindomRunPlugin", "SwindomRunPlugin\SwindomRunPlugin.csproj", "{9D5B3F41-3ABD-4F10-984E-5CF5BBA78172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5B3F41-3ABD-4F10-984E-5CF5BBA78172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5B3F41-3ABD-4F10-984E-5CF5BBA78172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5B3F41-3ABD-4F10-984E-5CF5BBA78172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5B3F41-3ABD-4F10-984E-5CF5BBA78172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F95AC84-051C-49C5-91C8-9FB1EB52B163}
+	EndGlobalSection
+EndGlobal
